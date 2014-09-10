@@ -1,0 +1,9 @@
+{
+	"name": "Webmention",
+	"title": "Webmention",
+	"id": "webmention@apps.exppad.com",
+	"description": "Send webmention though context menu",
+	"author": "Élie Michel",
+	"license": "MIT",
+	"version": "1.0"
+}
